@@ -4596,7 +4596,7 @@ textarea.w-select {
     height: 100vh;
     grid-column-gap: 26px;
     grid-row-gap: 26px;
-    background-color: #1097e6;
+    background-color: #000000;
     flex-direction: column;
     justify-content: center;
     align-items: center;
