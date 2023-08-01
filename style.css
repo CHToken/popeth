@@ -3592,9 +3592,9 @@ textarea.w-select {
 .phase_one_para {
   color: #000000;
   margin-bottom: 3px;
-  font-family: Cambria, "Dynamo", sans-serif;
+  font-family: "DynamoMN", sans-serif;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 400;
   line-height: 22px;
 }
 
@@ -3727,7 +3727,7 @@ textarea.w-select {
 
 .phase_second_heading {
   color: #fff;
-  background-color: #faa509;
+  background-color: #915e00;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 0;
@@ -3736,7 +3736,7 @@ textarea.w-select {
   padding: 10px 16px;
   font-family: "Dynamo";
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 28px;
 }
 
