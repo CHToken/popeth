@@ -2723,9 +2723,8 @@ textarea.w-select {
 .uniswap_btn {
   width: 170px;
   height: 43px;
-  color: #000;
   text-transform: uppercase;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgb(255, 255, 255);
   border: 2px solid #faa509;
   border-radius: 4px;
   margin-top: 40px;
@@ -3864,7 +3863,8 @@ textarea.w-select {
 }
 
 .text-span-5 {
-  color: #f2f1f1;
+  color: #000000;
+  font-family: "DynamoMN";
   border: 1px rgba(0, 0, 0, 0);
   text-decoration: none;
 }
