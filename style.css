@@ -3974,8 +3974,9 @@ textarea.w-select {
 
   .hero-section {
     z-index: 8;
-    background-image: url("https://uploads-ssl.webflow.com/6478391499eca638ac0044bd/6478406d89623184db015a2a_Hero%20Section%20(1).svg");
+    background-image: url("/images/Background.png");
     background-position: 50%;
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
     margin-bottom: 0;
