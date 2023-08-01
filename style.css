@@ -3546,9 +3546,9 @@ textarea.w-select {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  /* margin-top: -90px;
-  padding-top: 100px;
-  /* position: static; */
+  margin-top: -30px;
+  padding-top: -30px;
+  position: static;
 }
 
 .roadmap_phase_first {
